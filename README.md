@@ -18,3 +18,8 @@ GitHub supports mathematical notation.
  $$
  \frac{dv(t)}{dt} = -\alpha v(t) + \beta e^{-t/\tau}
  $$
+
+
+- [ ] Design Review
+- [x] Architecture Review
+- [ ] FMEA Review
