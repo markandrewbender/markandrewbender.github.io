@@ -16,5 +16,5 @@ A --> B
 GitHub supports mathematical notation. 
 ```markdown
  $$
- F = ma
+ \frac{dv(t)}{dt} = -\alpha v(t) + \beta e^{-t/\tau}
  $$
