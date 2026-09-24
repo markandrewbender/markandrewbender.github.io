@@ -23,3 +23,15 @@ GitHub supports mathematical notation.
 - [ ] Design Review
 - [x] Architecture Review
 - [ ] FMEA Review
+
+<details>
+<summary>View Architecture Diagram</summary>
+
+```mermaid
+flowchart TD
+Requirements --> Design
+Design --> Coding
+Coding --> Testing
+```
+
+</details>
