@@ -10,3 +10,10 @@ graph LR
 ```mermaid
 flowchart LR
 A --> B
+```
+
+#### 2. Math Equations (KaTeX) 
+GitHub supports mathematical notation. 
+```markdown
+ $$ F = ma
+ $$
